@@ -1,7 +1,6 @@
 # BG Programmer
 
 # オリジナルアプリのタイトル programmer
-URL:
 GitURL:https://github.com/ryoot/business-programmer
 Basic認証IDPASS:aaa
 テストIDPASS:aaa111
@@ -11,7 +10,9 @@ Basic認証IDPASS:aaa
 ・企画背景 プログラミングで検索など調べるときの回答でどのユーザーが回答をしているのかわかるようにしたかった。ユーザーがわかることで他の人が見る際にこの人の回答がわかりやすいというのがわかれば特定のユーザーの回答をすぐに探し出せれるようなサイトが欲しかった。回答するユーザーもみてくれる人が多いとメリットがあり、回答してくれるユーザーも多いと感じたのでこのアプリを作成したいと思い、作ってみました。
 
 # GIF動画
-
+https://gyazo.com/9250ce8298c5a59ac34a20dca796ddb1
+https://gyazo.com/d39ac2054e39fd45632de76b493f7b43
+https://gyazo.com/ac01db7a73cf90defcf9efc1ee041be9
 
 
 # テーブル設計
