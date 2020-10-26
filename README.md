@@ -27,7 +27,6 @@ Basic認証IDPASS:aaa
 今後実装したい機能に関しましては、使っているユーザーがもっと簡単に探し出せれるようにカテゴリーごとに検索できるような機能を作ってみたいと思います、現在はユーザーごとに閲覧できるようになっていますが、実際使っている側はそのユーザーのどの言語のどのフレームワークについて知りたいのかわかるように別にカテゴリーごとに分けて表示したいと思っています。イメージとしては、アマゾンやウーバーイーツのジャンルごとに表示できる機能です。なので投稿者の方にもジャンルが分類できるような機能をつけてみたいと思っています。
 
 # GIF動画
-
 <a href="https://gyazo.com/c816b912ce09370e04091fe170913e40"><img src="https://i.gyazo.com/c816b912ce09370e04091fe170913e40.gif" alt="Image from Gyazo" width="1000"/></a>
 <a href="https://gyazo.com/d39ac2054e39fd45632de76b493f7b43"><img src="https://i.gyazo.com/d39ac2054e39fd45632de76b493f7b43.gif" alt="Image from Gyazo" width="1000"/></a>
 <a href="https://gyazo.com/ac01db7a73cf90defcf9efc1ee041be9"><img src="https://i.gyazo.com/ac01db7a73cf90defcf9efc1ee041be9.gif" alt="Image from Gyazo" width="1000"/></a>
