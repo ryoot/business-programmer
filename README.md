@@ -6,6 +6,9 @@
 
 
 # オリジナルアプリのタイトル programmer
+
+URL: https://bg-programmer-28807.herokuapp.com
+
 GitURL:https://github.com/ryoot/business-programmer
 
 Basic認証IDPASS:aaa
