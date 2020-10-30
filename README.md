@@ -13,7 +13,7 @@ GitURL:https://github.com/ryoot/business-programmer
 
 Basic認証IDPASS:aaa
 
-テストIDPASS:aaa111
+テストIDPASS:aaaaaa
 
 ・開発環境Vs Code 言語：Ruby on Rails,HTML,CSS,Ruby,,Git,Heroku ツール: DB: サーバー：
 
