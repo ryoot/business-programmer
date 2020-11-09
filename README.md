@@ -11,9 +11,9 @@ URL: https://bg-programmer-28807.herokuapp.com
 
 GitURL:https://github.com/ryoot/business-programmer
 
-Basic認証IDPASS:aaa
+Basic認証IDPASS:ID:aaa pass:aaaaaa
 
-テストIDPASS:aaaaaa
+テストIDPASS:ID:aaa pass:aaa@gmail.com
 
 ・開発環境Vs Code 言語：Ruby on Rails,HTML,CSS,Ruby,,Git,Heroku ツール: DB: サーバー：
 
