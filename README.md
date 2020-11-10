@@ -39,8 +39,6 @@ Basic認証IDPASS:ID:aaa pass:aaaaaa
 <a href="https://gyazo.com/51e9ef6fd0f7789b2d1f5a9e7b807f06"><img src="https://i.gyazo.com/51e9ef6fd0f7789b2d1f5a9e7b807f06.gif" alt="Image from Gyazo" width="1000"/></a>
 <a href="https://gyazo.com/d48482bec1b5ccbf4a8660073375a472"><img src="https://i.gyazo.com/d48482bec1b5ccbf4a8660073375a472.gif" alt="Image from Gyazo" width="1000"/></a>
 
-
-
 # テーブル設計
 
 ## users テーブル
