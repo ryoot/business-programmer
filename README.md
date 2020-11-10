@@ -35,9 +35,10 @@ Basic認証IDPASS:ID:aaa pass:aaaaaa
 イメージとしては、アマゾンやウーバーイーツのジャンルごとに表示できる機能です。なので投稿者の方にもジャンルが分類できるような機能をつけてみたいと思っています。
 
 # GIF動画
-<a href="https://gyazo.com/1619f18012c9cbdf48b94d6f2764c7e5"><img src="https://i.gyazo.com/1619f18012c9cbdf48b94d6f2764c7e5.gif" alt="Image from Gyazo" width="1000"/></a>
-<a href="https://gyazo.com/d39ac2054e39fd45632de76b493f7b43"><img src="https://i.gyazo.com/d39ac2054e39fd45632de76b493f7b43.gif" alt="Image from Gyazo" width="1000"/></a>
 <a href="https://gyazo.com/ac01db7a73cf90defcf9efc1ee041be9"><img src="https://i.gyazo.com/ac01db7a73cf90defcf9efc1ee041be9.gif" alt="Image from Gyazo" width="1000"/></a>
+<a href="https://gyazo.com/51e9ef6fd0f7789b2d1f5a9e7b807f06"><img src="https://i.gyazo.com/51e9ef6fd0f7789b2d1f5a9e7b807f06.gif" alt="Image from Gyazo" width="1000"/></a>
+<a href="https://gyazo.com/8767fed9d0d8b2596618190c5667f11e"><img src="https://i.gyazo.com/8767fed9d0d8b2596618190c5667f11e.gif" alt="Image from Gyazo" width="1000"/></a>
+
 
 
 # テーブル設計
