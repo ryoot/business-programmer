@@ -37,7 +37,7 @@ Basic認証IDPASS:ID:aaa pass:aaaaaa
 # GIF動画
 <a href="https://gyazo.com/ac01db7a73cf90defcf9efc1ee041be9"><img src="https://i.gyazo.com/ac01db7a73cf90defcf9efc1ee041be9.gif" alt="Image from Gyazo" width="1000"/></a>
 <a href="https://gyazo.com/51e9ef6fd0f7789b2d1f5a9e7b807f06"><img src="https://i.gyazo.com/51e9ef6fd0f7789b2d1f5a9e7b807f06.gif" alt="Image from Gyazo" width="1000"/></a>
-<a href="https://gyazo.com/8767fed9d0d8b2596618190c5667f11e"><img src="https://i.gyazo.com/8767fed9d0d8b2596618190c5667f11e.gif" alt="Image from Gyazo" width="1000"/></a>
+<a href="https://gyazo.com/d48482bec1b5ccbf4a8660073375a472"><img src="https://i.gyazo.com/d48482bec1b5ccbf4a8660073375a472.gif" alt="Image from Gyazo" width="1000"/></a>
 
 
 
