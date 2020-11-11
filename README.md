@@ -8,7 +8,8 @@
 
 # オリジナルアプリのタイトル programmer
 
-URL: https://bg-programmer-28807.herokuapp.com
+URL: https://bg-programmer-28807.herokuapp.com  
+（リンク期限切れのため画像が表示されておりません。現在修正中です。ご了承お願い致します。）
 
 GitURL:https://github.com/ryoot/business-programmer
 
